@@ -1,0 +1,131 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6143222,
+          "lng": -122.3478269
+        }
+      },
+      "name": "Imperial Lounge",
+      "opening_hours": {
+        "open_now": false
+      },
+      "rating": 4.5,
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 97,
+      "vicinity": "2400 1st Ave, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6145578,
+          "lng": -122.3462281
+        }
+      },
+      "name": "Wakefield Bar Belltown",
+      "opening_hours": {
+        "open_now": true
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 278,
+      "vicinity": "2318 2nd Ave, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6145021,
+          "lng": -122.3460224
+        }
+      },
+      "name": "ROCCO'S",
+      "opening_hours": {
+        "open_now": true
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2797,
+      "vicinity": "2312 2nd Ave, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.613434,
+          "lng": -122.3462019
+        }
+      },
+      "name": "Local 360",
+      "opening_hours": {
+        "open_now": false
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1804,
+      "vicinity": "2234 1st Ave, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6139091,
+          "lng": -122.347116
+        }
+      },
+      "name": "Towne Pub",
+      "opening_hours": {
+        "open_now": false
+      },
+      "rating": 4.2,
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 47,
+      "vicinity": "2322 1st Ave, Seattle"
+    }
+  ],
+  "status": "OK"
+}
